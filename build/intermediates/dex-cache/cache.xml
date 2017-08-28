@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/a568281bb0a4ad1b2db411aa72d2580f5ff5fb46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_2878b5f530fa0f5a95e8dea822a6642b1f502e4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/c0f7e44012414fd9fc316b8cfa28d8ef90102cc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_f493466bd3e754b986ce2630edec2f7436316370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/8ca6fa6f1ea67555814d068243d4de7f39d63891/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_c981174433e7eadfb0be40f726e5bc128ff39133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/9c37f94d31ccedb58e6fe13d67c9e1ffb3a99df0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_e223a525e7d314b1c1912fb52ee5d360eaee624a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/Android/Sonic-Android-Demo/mylibrary/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="66dba67d3d0d59bdd32f33df12b9259e818e4808">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_6ebe9bceebb3debff9c2fee1fe50acb6791f0658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/1caaf5c8ebadaef097242d94648e29ff250f9034/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_c33934556fd51e50f6b1300530716fdbb525d5b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/Desktop/tool/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_fc00373ac4f5b93b20d44f9fc20d06f5845f478e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/19b56735b4a1f0d3415a47b3156e3a14405fc866/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="911a9db6944602599b211f8c2822581067476288">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_a29cedd9d628194caf911c85ce119a273fff04fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/0772fb90c8eba7ccdc94e0209d6338214f3ed81d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_6e8e5f271a2f4cee8e12c28c5e1630afd56a5112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/c326318c489fe588310e5e55ee988f570f608750/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_53fc0b2603619fec29d5c17795eae1510d454714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/aac4cea1c9d932a3367bf46f9ffc2407b0ee48e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_eff10115ca2745d67f7e2686913907854523ca87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mac/.android/build-cache/a2a940c9888e9031989fbf5a1c4e5bdc77f36d98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/mac/Desktop/Android/Sonic-Android-Demo/app/build/intermediates/pre-dexed/debug/classes_3c9827f982089c3969814bda7eecacf90a182c98.jar" />
+    </item>
+
+</items>

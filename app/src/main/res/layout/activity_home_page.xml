@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#fff"
+    android:layout_height="match_parent"
+    tools:context="com.sonic.mac.sonic_android_demo.HomePageActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginTop="20dp"
+            android:textColor="#08f"
+            android:id="@+id/button1"
+            android:text="非Sonic加载动态页面"
+            android:background="#fff"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginTop="20dp"
+            android:textColor="#08f"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/button2"
+            android:text="Sonic加载动态页面"
+            android:background="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_marginTop="20dp"
+            android:textColor="#08f"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/button3"
+            android:text="清除Sonic缓存"
+            android:background="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>
